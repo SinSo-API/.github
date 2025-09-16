@@ -11,7 +11,7 @@ Welcome to **SinSo-API**, the home of the **largest open-source Sinhala Songs Ly
 - Open-source and free to use
 - Perfect for music apps, chatbots, or any project needing Sinhala song lyrics data
 
----
+
 
 ## 🚀 API Endpoints
 
