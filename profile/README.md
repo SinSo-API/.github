@@ -16,9 +16,10 @@ Welcome to **SinSo-API**, the home of the **largest open-source Sinhala Songs Ly
 ## 🚀 API Endpoints
 
 - `/v1/artists/` – Retrieve all artists
-- `/v1/artist/{artistId}` – Get details of a specific artist
+- `/v1/artists/{artistId}` – Get details of a specific artist
 - `/v1/songs/` – List all songs
-- `/v1/song/{songId}` – Retrieve details of a specific song
+- `/v1/songs/{songId}` – Retrieve details of a specific song
+- `/v1/lyrics/{lyricId}` - Retrieve details of lyrics by lyric ID.
 
 *(More endpoints and documentation coming soon!)*
 
