@@ -49,7 +49,7 @@ SinSo-API combines **comprehensive Sinhala song coverage** with a **developer-fr
 
 ## 📬 Contributing & Feedback
 
-We welcome contributions and feedback! If you'd like to contribute, report a bug, or suggest a feature, please check the [Contributing Guidelines](#) or open an issue on GitHub.
+We welcome contributions and feedback! If you'd like to contribute, report a bug, or suggest a feature, please check the [Contributing Guidelines](https://github.com/SinSo-API/.github/blob/main/CONTRIBUTING.md) or open an issue on GitHub.
 
 ## ☕ Support the Project
 If you find this project helpful, consider supporting us by buying a coffee! Your support helps keep the API running and updated.
